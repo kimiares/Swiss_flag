@@ -41,7 +41,7 @@ namespace SwissFlag
                     
                 }
                 //Cross part strings - cross centre
-                else if ((i >= crossFrame && i < crossFrame + side) || (i > crossFrame + side * 2 && i < crossFrame + side * 4))
+                else if ((i >= crossFrame && i < crossFrame + side) || (i > crossFrame + side * 2 && i < crossFrame + side * 3))
                 {
 
                     Console.WriteLine(

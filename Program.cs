@@ -28,10 +28,13 @@ namespace SwissFlag
             int side = (dimension - crossFrame * 2) / 3;
             for (var i = 0; i < dimension; i++)
             {
+                
+                //First and last (crossFrame)'s strings
                 if (i < crossFrame || i >= crossFrame + side * 3)
                 {
                     Console.WriteLine(new string('*', dimension));
                 }
+                //Cross part strings - cross centre
                 else if ((i >= crossFrame && i < crossFrame + side) || (i > crossFrame + side * 2 && i < crossFrame + side * 4))
                 {
 
@@ -42,6 +45,7 @@ namespace SwissFlag
                         );
 
                 }
+                //Cross center
                 else
                 {
 

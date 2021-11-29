@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\bin\Debug\net5.0\SwissFlag.exe
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\bin\Debug\net5.0\SwissFlag.deps.json
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\bin\Debug\net5.0\SwissFlag.runtimeconfig.json
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\bin\Debug\net5.0\SwissFlag.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\bin\Debug\net5.0\SwissFlag.dll
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\bin\Debug\net5.0\ref\SwissFlag.dll
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\bin\Debug\net5.0\SwissFlag.pdb
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.dll
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\ref\SwissFlag.dll
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.pdb
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\SwissFlag\SwissFlag\obj\Debug\net5.0\SwissFlag.csproj.AssemblyReference.cache
